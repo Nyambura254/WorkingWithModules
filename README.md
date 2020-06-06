@@ -1,6 +1,9 @@
 # WorkingWithModules
 how to work with modules in javascript
 
+THIS WORKING EXAAMPLE WEBSITE WAS LEARNED/CLONED AND MODIFIED THROUGH A LEARNING GUIDE FROM PLURALSIGHT
+https://app.pluralsight.com/course-player?clipId=b905b31c-055b-4d1c-acaf-96f6ec0043ae
+
 you need to have an IDE installed eg vs code and node latest version installed will work
 *run nmp install*-to get express modules
 
