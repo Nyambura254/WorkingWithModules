@@ -19,12 +19,12 @@ what is modules....
 5.reference it own dependancies-incase you need to access a piece of code
 
 CREATING MODULES
-1.Named export---separating content in template.js
+1.Named export---separating content in template.js.
 
 2.Default export-you need to know what indefault version to simplify how you are doing your defaults
-----------in sessionRepository.js
+----------in sessionRepository.js.
 
-3.Aggregating modules--importing everything we have created in sessionRepository.js
+3.Aggregating modules--importing everything we have created in sessionRepository.js.
 
 
 USING MODULES
